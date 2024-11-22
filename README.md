@@ -87,7 +87,7 @@ To set up this project locally, follow these steps:
 For collaborations, inquiries, or feedback, feel free to get in touch:
 
 - **Email**: [tskarthikathreya@gmail.com](mailto:tskarthikathreya@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/karthikathreyats/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/karthik-athreya-t-s-156646191)
 
 ---
 
